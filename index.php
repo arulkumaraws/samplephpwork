@@ -15,9 +15,10 @@ EcHo "Hai Arul!<br>";
 
 </body>
 </html>
+  <body bgcolor="color_name|hex_number|rgb_number">
   
 <?php
-echo "Version: 1.0";
+echo "Version: 5.6";
 ?>
 
 </body>
